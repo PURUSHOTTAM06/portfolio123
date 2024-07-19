@@ -35,7 +35,7 @@ aria-label = open menu
 
 alt = Julia
 
-alt = 250+ Projects Done
+alt = 1000+ Coding Questions Solved 
 
 I'm User Interface Designer & Developer.
 
