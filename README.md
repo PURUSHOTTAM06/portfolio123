@@ -1,55 +1,39 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/julia-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/julia-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/julia-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/wjqiFCTssTI?style=social)](https://youtu.be/wjqiFCTssTI)
+# Portfolio Website
 
-  <br />
-  <br />
+Welcome to my personal portfolio website! This repository contains the code and assets for showcasing my skills, projects, and experiences.
+HERE IS THE LINK TO THE WEBSITE:
+https://taesakshi.github.io/Portfolio-Website/
+## Table of Contents
 
-  <h2 align="center">Sakshi - Portfolio Website</h2>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## Introduction
 
-  <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
+This portfolio website is designed to highlight my work and provide a platform for potential employers and collaborators to view my projects and get in touch. It includes sections such as Coding Profiles, Projects, and a contact form.
 
-</div>
+## Features
 
-<br />
+- **Coding Profiles:** Displays my profiles on various coding platforms with links and descriptions.
+- **Projects:** Showcases my major projects with descriptions and links to their respective repositories or live demos.
+- **Contact:** Provides a way for visitors to get in touch with me.
 
-### Demo Screeshots
+## Technologies Used
 
-![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling and layout.
+- **JavaScript**: For interactive features (if applicable).
+- **Git**: For version control.
 
-### Prerequisites
+## Installation
 
-Before you begin, ensure you have met the following requirements:
+To run this project locally:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Julia** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/julia-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/julia-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
-"# Portfolio-Website" 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/taesakshi/Portfolio-Website.git
