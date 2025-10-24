@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This repository contains the code and assets for showcasing my skills, projects, and experiences.
 HERE IS THE LINK TO THE WEBSITE:
-https://taesakshi.github.io/Portfolio-Website/
+(https://purushottam06.github.io/portfolio/)
 ## Table of Contents
 
 - [Introduction](#introduction)
